@@ -1,6 +1,9 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### Name: SHYAM S
+### Register Number: 212223240156
+### DATE: 22.04.2024
+
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +50,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SridharShyam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144871368/23d261dc-0e67-4381-a743-8315477ed1e5)
+
+![WhatsApp Image 2024-03-16 at 09 40 07_cdc34bdc](https://github.com/SridharShyam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144871368/5a38ae71-d15d-45f0-96d5-58f9a0691a1a)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
